@@ -1,6 +1,6 @@
 ---
 layout: post
-title: welcome to personal blog
+title: welcome to Yinan's personal blog
 ---
 
 <h1>Education</h1>
